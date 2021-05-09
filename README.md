@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Kazuto-dev
 - 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning ++ and C#
-- 💞️ I’m looking to collaborate on Game Development 
+- 🌱 I’m currently learning C++ and C#
+- 💞️ I’m looking to collaborate on Game Development
+- I'm willing to learn anything from my team!
 - 📫 How to reach me kazutokirigayakirito60@gmail.com
 
 <!---
